@@ -1,0 +1,12 @@
+{
+  "name": "hello-github",
+  "version": "1.0.0",
+  "description": "Un proyecto simple de Node.js que imprime Hola Mundo desde GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["hello", "github", "nodejs"],
+  "author": "",
+  "license": "MIT"
+}
